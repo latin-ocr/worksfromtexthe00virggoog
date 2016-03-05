@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./worksfromtexthe00virggoog_0408.png"; bbox 0 0 2446 4260; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 356 1866 776 1936">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 356 1866 776 1936">
+     <span class='ocr_line' id='line_1_1' title="bbox 356 1866 776 1936; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 356 1871 388 1936; x_wconf 92' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 407 1867 577 1935; x_wconf 78' lang='lat' dir='ltr'><strong>VIRGILII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 603 1866 776 1934; x_wconf 81' lang='lat' dir='ltr'><strong>MARONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 306 2067 824 2170">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 306 2067 824 2170">
+     <span class='ocr_line' id='line_1_2' title="bbox 306 2067 824 2170; baseline -0.006 0"><span class='ocrx_word' id='word_1_4' title='bbox 306 2067 824 2170; x_wconf 85' lang='lat' dir='ltr'><strong>AENEIDOS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 395 2278 738 2328">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 395 2278 738 2328">
+     <span class='ocr_line' id='line_1_3' title="bbox 395 2278 738 2328; baseline -0.006 0"><span class='ocrx_word' id='word_1_5' title='bbox 395 2280 495 2328; x_wconf 83' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_6' title='bbox 511 2278 738 2328; x_wconf 83' lang='lat' dir='ltr'><strong>DUODECIMUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1228 4260">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1228 4260">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1228 4260; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1228 4260; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

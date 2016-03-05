@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./worksfromtexthe00virggoog_0226.png"; bbox 0 0 2446 4260; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 371 1817 780 1888">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 371 1817 780 1888">
+     <span class='ocr_line' id='line_1_1' title="bbox 371 1817 780 1888; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 371 1819 403 1888; x_wconf 86' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_2' title='bbox 422 1818 592 1888; x_wconf 81' lang='lat' dir='ltr'><strong>VIRGILII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 608 1817 780 1888; x_wconf 78' lang='lat' dir='ltr'><strong>MARONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 306 2031 847 2130">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 306 2031 847 2130">
+     <span class='ocr_line' id='line_1_2' title="bbox 306 2031 847 2130; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 306 2031 847 2130; x_wconf 87' lang='lat' dir='ltr'><strong>AENEIDOS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 391 2264 849 2322">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 391 2264 849 2322">
+     <span class='ocr_line' id='line_1_3' title="bbox 391 2264 849 2322; baseline -0.004 -11"><span class='ocrx_word' id='word_1_5' title='bbox 391 2264 520 2312; x_wconf 81' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_6' title='bbox 550 2266 756 2322; x_wconf 83' lang='lat' dir='ltr'>QUINTUS.</span> <span class='ocrx_word' id='word_1_7' title='bbox 846 2303 849 2309; x_wconf 92' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1228 4260">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1228 4260">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1228 4260; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1228 4260; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
